@@ -24,12 +24,13 @@ namespace CNPM_nhóm_1
 
         private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            this.Close();
+            new DangNhap().Visible = true;
         }
 
         private void quảnLýTàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void dMHàngHóaToolStripMenuItem_Click(object sender, EventArgs e)
