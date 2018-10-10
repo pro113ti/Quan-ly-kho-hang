@@ -61,19 +61,37 @@
       <DependentUpon>DangNhap.cs</DependentUpon>
     </Compile>
     <Compile Include="DbHelper.cs" />
+    <Compile Include="DMHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DMHangHoa.Designer.cs">
+      <DependentUpon>DMHangHoa.cs</DependentUpon>
+    </Compile>
     <Compile Include="Giao Diện Phần Mềm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Giao Diện Phần Mềm.Designer.cs">
       <DependentUpon>Giao Diện Phần Mềm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Phiếu Nhập.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phiếu Nhập.Designer.cs">
+      <DependentUpon>Phiếu Nhập.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="DMHangHoa.resx">
+      <DependentUpon>DMHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Giao Diện Phần Mềm.resx">
       <DependentUpon>Giao Diện Phần Mềm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phiếu Nhập.resx">
+      <DependentUpon>Phiếu Nhập.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

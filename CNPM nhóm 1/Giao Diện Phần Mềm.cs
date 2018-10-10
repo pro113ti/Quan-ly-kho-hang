@@ -35,7 +35,8 @@ namespace CNPM_nhóm_1
 
         private void dMHàngHóaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            this.Visible = false;
+            new DMHangHoa().ShowDialog();
         }
 
         private void dMNhàCungCấpToolStripMenuItem_Click(object sender, EventArgs e)
@@ -60,12 +61,13 @@ namespace CNPM_nhóm_1
 
         private void nhậpKhoToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            
+            this.Visible = false;
+            new Phiếu_Nhập().ShowDialog();
         }
 
         private void xuấtKhoToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-           
+            
         }
     }
 }
