@@ -96,22 +96,3 @@ D:\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.GenerateResource.Cach
 D:\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.CoreCompileInputs.cache
 D:\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.exe
 D:\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.pdb
-D:\Quan-ly-kho-hang\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe.config
-D:\Quan-ly-kho-hang\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe
-D:\Quan-ly-kho-hang\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.pdb
-D:\Quan-ly-kho-hang\CNPM nhóm 1\bin\Debug\Lớp BUS.pdb
-D:\Quan-ly-kho-hang\CNPM nhóm 1\bin\Debug\Lớp DAL.pdb
-D:\Quan-ly-kho-hang\CNPM nhóm 1\bin\Debug\Lớp Entites.pdb
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csprojResolveAssemblyReference.cache
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DangNhap.resources
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMHangHoa.resources
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMKhachHang.resources
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMNhaCungCap.resources
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Form1.resources
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Nhập.resources
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Xuất.resources
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Properties.Resources.resources
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.GenerateResource.Cache
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.CoreCompileInputs.cache
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.exe
-D:\Quan-ly-kho-hang\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.pdb

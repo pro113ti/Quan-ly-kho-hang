@@ -30,7 +30,16 @@ namespace CNPM_nhóm_1
 
         private void quảnLýTàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+            if (Class.role == "A")
+            {
+                
+                this.Visible = false;
+                new QuanLyTaiKhoan().ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Chỉ admin mới có thể quản lý tài khoản");
+            }
         }
 
         private void dMHàngHóaToolStripMenuItem_Click(object sender, EventArgs e)
